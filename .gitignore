@@ -1,0 +1,16 @@
+# Eclipse
+.settings
+.project
+.angulardoc.json
+
+# IntelliJ
+.idea/
+*.iml
+
+
+# User-specific stuff
+node_modules
+dist
+logs
+.vscode
+/package-lock.json
